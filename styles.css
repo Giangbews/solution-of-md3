@@ -1,0 +1,57 @@
+/*header*/
+header{
+	border-top: solid black;
+	border-bottom: 2px solid black;
+}
+.bg-light {
+	background-color: gray !important;
+}
+.navbar-brand{
+	font-size: 2em;
+	font-weight: 500;
+	padding: 0px;
+	color: white;
+}
+.navbar-nav{
+	text-align: center;
+}
+.nav-link{
+	font-size: 1.5em;
+	color: white;
+	border-radius: 5px;
+}
+.nav-item a:hover {
+	color: skyblue;
+	background-color: white;
+}
+/*content-body*/
+body{
+	background-color: aquamarine;
+}
+body #main-content{
+	text-align: center;
+	font-size: 3em;
+	margin-bottom: 20px;
+	font-weight: bold;
+
+}
+ 
+.Exercise div{
+	background-color: skyblue;
+	padding: 10px 15px 10px;
+	margin: 20px 0px 20px;
+	border: 1px solid black;
+}
+h2{
+	text-align: center;
+}
+
+/*footer*/
+footer{
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+footer .container{
+	text-align: center;
+}
+
